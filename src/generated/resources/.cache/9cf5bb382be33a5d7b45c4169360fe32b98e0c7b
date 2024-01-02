@@ -1,0 +1,4 @@
+// 1.20.2	2024-01-02T14:28:33.1322859	Tags for minecraft:block mod id themoon
+5eefab671e4874d61811e5f6a1cda5fa7522336d data/minecraft/tags/blocks/mineable/pickaxe.json
+5b6da81311928f53c6b6070dfcd74c3bcc6a5df5 data/minecraft/tags/blocks/needs_iron_tool.json
+e98f735cda836c3adb95824b7ed66c92eaa5c64b data/minecraft/tags/blocks/needs_stone_tool.json

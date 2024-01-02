@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "themoon:block/cheese_block"
+    }
+  }
+}

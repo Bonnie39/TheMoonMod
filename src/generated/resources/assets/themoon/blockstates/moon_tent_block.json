@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "themoon:block/moon_tent_block"
+    }
+  }
+}

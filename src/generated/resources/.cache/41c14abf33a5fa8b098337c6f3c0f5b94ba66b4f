@@ -1,0 +1,19 @@
+// 1.20.2	2024-01-02T14:52:47.4170525	Block States: themoon
+918460285f4f65b4f0ffde2212efe71b4e0be43b assets/themoon/blockstates/bauxite_ore.json
+48606f2aba627ea3697357b4ee8b7a82aaffebb5 assets/themoon/blockstates/cheese_block.json
+8faafcdb58eb1bb13e7e860152aba83bd22bbca7 assets/themoon/blockstates/moon_lamp.json
+0b608cdcdd55649e4294e1456370710a50554b7f assets/themoon/blockstates/moon_tent_block.json
+b7fc99fbd67deb9432a213f544202e2e020b4485 assets/themoon/blockstates/reinforced_cloth.json
+fee27d5ec4acc3afe4350e4593a516b1aff1ecd5 assets/themoon/blockstates/tent_material.json
+7bd826c48b5bb7827a607dff0ff1644cd89868ad assets/themoon/models/block/bauxite_ore.json
+a6ed95cb0784942ed642b4fd0e965a6ee3d9f79b assets/themoon/models/block/cheese_block.json
+50bde4e15b29d445dda426aabb3c134328193e14 assets/themoon/models/block/moon_lamp.json
+8ac88ea8b3e8a761bd0287f0debe4e85bcd51695 assets/themoon/models/block/moon_tent_block.json
+315968f37697b6b13800dd6a1ec8cd15b13f5157 assets/themoon/models/block/reinforced_cloth.json
+2f1992ec5d75834d9f49f5da116ede5e43f5a931 assets/themoon/models/block/tent_material.json
+6945c304721f1ee42c783d3992a83a8e2cb29c05 assets/themoon/models/item/bauxite_ore.json
+d1f6ba91b96a89a21ba1f3496659bd489e5881d4 assets/themoon/models/item/cheese_block.json
+7f8a2c1cfbc9281884e66deba76bb64aedfdd530 assets/themoon/models/item/moon_lamp.json
+8101dfcb89c839589f5971a011f4f440e4fb8daf assets/themoon/models/item/moon_tent_block.json
+4c171e6e81c098bc9de20a33f655bfcab61e6896 assets/themoon/models/item/reinforced_cloth.json
+18a280f6f02b79b7e05c953a82108607fc55f8fb assets/themoon/models/item/tent_material.json

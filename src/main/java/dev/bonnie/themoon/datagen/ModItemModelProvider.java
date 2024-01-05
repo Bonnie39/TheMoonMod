@@ -60,10 +60,10 @@ public class ModItemModelProvider extends ItemModelProvider {
                 new ResourceLocation(TheMoonMod.MOD_ID, "item/" + item.getId().getPath()));
     }
 
-    private void trimmedArmorItem(RegistryObject<Item> itemRegistryObject) {
+    private void trimmedArmorItem(RegistryObject<Item> item) {
         final String MOD_ID = TheMoonMod.MOD_ID;
 
-        if(itemRegistryObject.get() instanceof ArmorItem armorItem) {
+        if(item.get() instanceof ArmorItem armorItem) {
             trimMaterials.entrySet().forEach(entry -> {
 
                 ResourceKey<TrimMaterial> trimMaterial = entry.getKey();
@@ -95,14 +95,14 @@ public class ModItemModelProvider extends ItemModelProvider {
                         .texture("layer1", trimResLoc);
 
                 // Non-trimmed armorItem file (normal variant)
-                this.withExistingParent(itemRegistryObject.getId().getPath(),
+                this.withExistingParent(item.getId().getPath(),
                                 mcLoc("item/generated"))
                         .override()
                         .model(new ModelFile.UncheckedModelFile(trimNameResLoc))
                         .predicate(mcLoc("trim_type"), trimValue).end()
                         .texture("layer0",
                                 new ResourceLocation(MOD_ID,
-                                        "item/" + itemRegistryObject.getId().getPath()));
+                                        "item/" + item.getId().getPath()));
             });
         }
     }

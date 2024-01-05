@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "a a",
+    "R R"
+  ],
+  "key": {
+    "a": {
+      "item": "themoon:aluminum_ingot"
+    },
+    "R": {
+      "item": "themoon:reinforced_cloth"
+    }
+  },
+  "result": {
+    "item": "themoon:moon_boots",
+    "count": 1
+  }
+}

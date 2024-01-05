@@ -29,7 +29,7 @@ public class SonicScrewdriverItem extends Item {
             context.getLevel().playSound(context.getPlayer(), framePos,
                     SoundEvents.FLINTANDSTEEL_USE, SoundSource.BLOCKS, 1.0F, 1.0F);
 
-            // Check which hand is holding the catalyst
+            // Check which hand is holding the screwdriver
             InteractionHand hand = getHandHoldingItem(context.getPlayer(), ModItems.SONIC_SCREWDRIVER.get().asItem());
 
             // Trigger arm swing animation on the client side for the hand holding the catalyst

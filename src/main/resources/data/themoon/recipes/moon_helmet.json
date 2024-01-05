@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "###",
+    "#G#"
+  ],
+  "key": {
+    "#": {
+      "item": "themoon:reinforced_cloth"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "themoon:moon_helmet",
+    "count": 1
+  }
+}

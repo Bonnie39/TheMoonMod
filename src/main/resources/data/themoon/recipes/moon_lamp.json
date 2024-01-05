@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#Ri",
+    " i "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "i": {
+      "item": "themoon:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "themoon:moon_lamp",
+    "count": 1
+  }
+}
